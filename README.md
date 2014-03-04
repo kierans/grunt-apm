@@ -17,7 +17,7 @@ Once the plugin has been installed, it may be enabled inside your Gruntfile with
 grunt.loadNpmTasks('grunt-apm');
 ```
 
-## The "apm" task
+## Tasks
 
 This plugin defines the following tasks (each calls the respective APM command
 in the current working directory):
