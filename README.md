@@ -1,6 +1,6 @@
 # grunt-apm [![Build Status](https://travis-ci.org/aymericbeaumet/grunt-apm.png?branch=master)][travis] [![NPM version](https://badge.fury.io/js/grunt-apm.png)][npm]
 
-> An easy way to deal with APM from Grunt.
+> An easy way to deal with APM (Atom Package Manager) from Grunt.
 
 ## Getting Started
 This plugin requires Grunt.
