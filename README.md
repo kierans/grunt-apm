@@ -19,7 +19,8 @@ grunt.loadNpmTasks('grunt-apm');
 
 ## The "apm" task
 
-This plugin defines the following tasks:
+This plugin defines the following tasks (each calls the respective APM command
+in the current working directory):
 
 - `apm-link`
 - `apm-test`
