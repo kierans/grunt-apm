@@ -1,0 +1,18 @@
+language: node_js
+node_js:
+- '0.10'
+
+before_install:
+- currentfolder=${PWD##*/}
+- if [ "$currentfolder" != 'grunt-apm' ]; then cd .. && eval "mv $currentfolder
+  grunt-apm" && cd grunt-apm; fi
+
+deploy:
+  provider: npm
+  email: aymeric@beaumet.me
+  api_key:
+    secure: B4kgmjmQ73wnHNWYP8wy6KjMDl8z7INXDf7iT+3HGmwHTTjkUzKiJXohe4bDXt/V7IyFIBfpeLu8o24snhbFbdKSfQLfdmHk1skV+ztcnN+mz7z3WUp/qTS29UiuInaFLuJPz1+/3EU2pmU6uwO8TYtKYOSpyhhB3zFP/1eVim4=
+  on:
+    repo: aymericbeaumet/grunt-apm
+    branch: master
+    tags: true
