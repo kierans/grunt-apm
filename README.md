@@ -37,8 +37,8 @@ In lieu of a formal styleguide, take care to maintain the existing coding style.
 - `apm-unlink`
 
 ## License
-Copyright (c) 2014 Aymeric Beaumet. Licensed under the MIT license.
 
+MIT © [Aymeric Beaumet](http://beaumet.me)
 
 [npm]: https://www.npmjs.org/package/grunt-apm
 [travis]: https://travis-ci.org/aymericbeaumet/grunt-apm
