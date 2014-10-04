@@ -1,6 +1,6 @@
 {
   "name": "grunt-apm",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "An easy way to deal with APM from Grunt",
   "homepage": "https://github.com/aymericbeaumet/grunt-apm",
   "repository": "git://github.com/aymericbeaumet/grunt-apm.git",

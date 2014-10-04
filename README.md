@@ -31,6 +31,9 @@ In lieu of a formal styleguide, take care to maintain the existing coding style.
 
 ## Release History
 
+1.0.0
+- Bump stable
+
 0.0.1:
 - `apm-link`
 - `apm-test`
