@@ -1,8 +1,9 @@
 # grunt-apm [![Build Status](https://img.shields.io/travis/aymericbeaumet/grunt-apm.svg?style=flat)][travis] [![NPM version](https://img.shields.io/npm/v/grunt-apm.svg?style=flat)][npm]
 
-> An easy way to deal with APM (Atom Package Manager) from Grunt.
+An easy way to deal with APM (Atom Package Manager) from Grunt.
 
 ## Getting Started
+
 This plugin requires Grunt.
 
 If you haven't used [Grunt](http://gruntjs.com/) before, be sure to check out the [Getting Started](http://gruntjs.com/getting-started) guide, as it explains how to create a [Gruntfile](http://gruntjs.com/sample-gruntfile) as well as install and use Grunt plugins. Once you're familiar with that process, you may install this plugin with this command:
@@ -25,9 +26,6 @@ in the current working directory):
 - `apm-link`
 - `apm-test`
 - `apm-unlink`
-
-## Contributing
-In lieu of a formal styleguide, take care to maintain the existing coding style. Add unit tests for any new or changed functionality. Lint and test your code using [Grunt](http://gruntjs.com/).
 
 ## Release History
 
