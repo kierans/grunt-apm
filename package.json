@@ -2,13 +2,19 @@
   "name": "grunt-apm",
   "version": "1.0.0",
   "description": "An easy way to deal with APM from Grunt",
-  "homepage": "https://github.com/aymericbeaumet/grunt-apm",
-  "repository": "git://github.com/aymericbeaumet/grunt-apm.git",
-  "author": {
-    "name": "Aymeric Beaumet",
-    "email": "aymeric@beaumet.me",
-    "url": "http://beaumet.me"
-  },
+  "homepage": "https://github.com/kierans/grunt-apm",
+  "repository": "git://github.com/kierans/grunt-apm.git",
+  "contributors": [
+    {
+      "name": "Aymeric Beaumet",
+      "email": "aymeric@beaumet.me",
+      "url": "http://beaumet.me"
+    },
+    {
+      "name": "Kieran Simpson",
+      "email": "kierans777@gmail.com"
+    }
+  ],
   "keywords": [
     "gruntplugin"
   ],
